@@ -878,11 +878,6 @@ JRC-Acquis/index-long.txt
 JRC-Acquis/index.txt
 JRC-Acquis/info.txt
 JRC-Acquis/releases.txt
-JW300/index-filesize.txt
-JW300/index-long.txt
-JW300/index.txt
-JW300/info.txt
-JW300/releases.txt
 KDE4/index-filesize.txt
 KDE4/index-long.txt
 KDE4/index.txt
